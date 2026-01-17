@@ -1,0 +1,7 @@
+game_id,total_incercari,cuvant_gasit,status,secventa_incercari
+99,4,student,OK,u d e n
+17,3,carare,OK,c r a
+23,5,minge,OK,m i n g e
+24,2,carare,FAIL,r a
+25,4,student,FAIL,e n u d
+26,4,coaste,OK,c a s t
